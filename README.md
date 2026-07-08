@@ -28,11 +28,10 @@ A segunda parte consistiu no desenvolvimento de aplicações baseadas no control
 * **Exercício 1 (Servomotor):** Foi desenvolvida a leitura analógica de um potenciômetro pelo ADC da ESP32, convertendo a tensão em valores de ângulo para variar manualmente o *duty cycle* de um servomotor.
 * O controle do servomotor foi implementado utilizando a biblioteca "ESP32 Servo" no Wokwi.
 * **Exercício 2 (Aplicação Própria):** Foi desenvolvida uma aplicação própria com ênfase na biblioteca nativa MCPWM (Motor Control PWM).
-* O sistema controla parâmetros (como velocidade ou posicionamento) de um atuador escolhido no simulador.
-* O projeto incorpora um recurso adicional de hardware/software, agregando funcionalidade ao sistema.
-* O projeto inclui comunicação serial para monitoramento e interação.
+* O sistema permite a escolha entre o controle manual e automático do ângulo de um servomotor através de um pushbutton.
 * As informações e parâmetros de funcionamento são apresentados em um display OLED conectado via barramento I2C.
 ---
 
 ## Circuitos no Wokwi
-* [cite_start]**Diagrama do Circuito:** [Inserir imagem/captura de tela da montagem realizada no Wokwi]
+# Parte 1:
+![alt text](https://github.com/ViniciusTrindade2004/Projeto3/blob/main/projeto3parte1.png)
