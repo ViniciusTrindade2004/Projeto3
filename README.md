@@ -29,7 +29,7 @@ A segunda parte consistiu no desenvolvimento de aplicações baseadas no control
 * O controle do servomotor foi implementado utilizando a biblioteca "ESP32 Servo" no Wokwi.
 * **Exercício 2 (Aplicação Própria):** Foi desenvolvida uma aplicação própria com ênfase na biblioteca nativa MCPWM (Motor Control PWM).
 * O sistema permite a escolha entre o controle manual e automático do ângulo de um servomotor através de um pushbutton.
-* As informações e parâmetros de funcionamento são apresentados em um display OLED conectado via barramento I2C.
+* As informações sobre o modo, ângulo e largura de pulso são apresentados em um display OLED conectado via barramento I2C.
 ---
 
 ## Circuitos no Wokwi
