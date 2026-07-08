@@ -33,10 +33,9 @@ A segunda parte consistiu no desenvolvimento de aplicações baseadas no control
 * O projeto incorpora um recurso adicional de hardware/software, agregando funcionalidade ao sistema.
 * O projeto inclui comunicação serial para monitoramento e interação.
 * As informações e parâmetros de funcionamento são apresentados em um display OLED conectado via barramento I2C.
-* 
 ---
 
-## Diagrama de Circuito e Simulação
+## Circuitos no Wokwi
 * [cite_start]**Diagrama do Circuito:** [Inserir imagem/captura de tela da montagem realizada no Wokwi]
 
 ---
