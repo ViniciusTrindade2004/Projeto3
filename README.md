@@ -36,8 +36,3 @@ A segunda parte consistiu no desenvolvimento de aplicações baseadas no control
 
 ## Circuitos no Wokwi
 * [cite_start]**Diagrama do Circuito:** [Inserir imagem/captura de tela da montagem realizada no Wokwi]
-
----
-
-## Discussão de Resultados e Reflexão
-A proposta demonstrou a aplicação prática das bibliotecas PWM em um contexto de controle embarcado, abrangendo a modelagem, implementação e validação do sistema. Durante a execução, foram discutidas decisões de engenharia sobre recursos de hardware e otimização do consumo energético.
