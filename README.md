@@ -1,7 +1,6 @@
 # Projeto 3: Controle PWM e Comunicação
 **Disciplina:** SEL0433 - Aplicação de Microprocessadores
 
-## Identificação
 * **Nome:** Vinícius Rafael Trindade
 * **Número USP:** 15491900
 
