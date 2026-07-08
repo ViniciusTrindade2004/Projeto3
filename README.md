@@ -35,7 +35,9 @@ A segunda parte consistiu no desenvolvimento de aplicações baseadas no control
 ## Circuitos no Wokwi
 Parte 1:
 ![alt text](https://github.com/ViniciusTrindade2004/Projeto3/blob/main/projeto3parte1.png)
+
 Parte 2, exercício 1:
 ![alt text](https://github.com/ViniciusTrindade2004/Projeto3/blob/main/projeto3parte2ex1.png)
+
 Parte 2, exercício 2:
 ![alt text](https://github.com/ViniciusTrindade2004/Projeto3/blob/main/projeto3parte2ex2.png)
